@@ -1,0 +1,11 @@
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\bin\Debug\netcoreapp2.1\Geladeira.deps.json
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\bin\Debug\netcoreapp2.1\Geladeira.runtimeconfig.json
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\bin\Debug\netcoreapp2.1\Geladeira.runtimeconfig.dev.json
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\bin\Debug\netcoreapp2.1\Geladeira.dll
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\bin\Debug\netcoreapp2.1\Geladeira.pdb
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\obj\Debug\netcoreapp2.1\Geladeira.csprojAssemblyReference.cache
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\obj\Debug\netcoreapp2.1\Geladeira.csproj.CoreCompileInputs.cache
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\obj\Debug\netcoreapp2.1\Geladeira.AssemblyInfoInputs.cache
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\obj\Debug\netcoreapp2.1\Geladeira.AssemblyInfo.cs
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\obj\Debug\netcoreapp2.1\Geladeira.dll
+C:\Users\35711103822\Desktop\Code Dojo\Geladeira\obj\Debug\netcoreapp2.1\Geladeira.pdb
